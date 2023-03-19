@@ -1,2 +1,31 @@
 
-body {background-color: orange; font-family:verdana}
+
+.wrapper {
+    margin: auto;
+    width: 50%;
+    height: 50%
+    font-family: arial;
+    align-contents: center;
+    alight-itemsL center;
+    align-self: center;
+}
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: bold;
+  font-family: verdana;
+}
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: bold;
+  font-family: verdana;
+}
+
+a:hover {
+  color: blue;
+  background-color: transparent;
+  text-decoration: bold;
+  text-decoration: underline;
+  font-family: verdana;
+}
